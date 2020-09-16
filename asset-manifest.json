@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolioo/static/css/main.491c4a40.chunk.css",
-    "main.js": "/portfolioo/static/js/main.7ac89f3b.chunk.js",
-    "main.js.map": "/portfolioo/static/js/main.7ac89f3b.chunk.js.map",
-    "runtime-main.js": "/portfolioo/static/js/runtime-main.2ce01d7a.js",
-    "runtime-main.js.map": "/portfolioo/static/js/runtime-main.2ce01d7a.js.map",
-    "static/js/2.1e8c3134.chunk.js": "/portfolioo/static/js/2.1e8c3134.chunk.js",
-    "static/js/2.1e8c3134.chunk.js.map": "/portfolioo/static/js/2.1e8c3134.chunk.js.map",
-    "index.html": "/portfolioo/index.html",
-    "precache-manifest.d0a38cdc1394652e52ff13caf514ff28.js": "/portfolioo/precache-manifest.d0a38cdc1394652e52ff13caf514ff28.js",
-    "service-worker.js": "/portfolioo/service-worker.js",
-    "static/css/main.491c4a40.chunk.css.map": "/portfolioo/static/css/main.491c4a40.chunk.css.map",
-    "static/js/2.1e8c3134.chunk.js.LICENSE.txt": "/portfolioo/static/js/2.1e8c3134.chunk.js.LICENSE.txt",
-    "static/media/btn_main.jpeg": "/portfolioo/static/media/btn_main.9e134070.jpeg",
-    "static/media/info.png": "/portfolioo/static/media/info.ee6de916.png",
-    "static/media/weirddog.png": "/portfolioo/static/media/weirddog.5fd2eac3.png"
+    "main.css": "/static/css/main.491c4a40.chunk.css",
+    "main.js": "/static/js/main.4cd00711.chunk.js",
+    "main.js.map": "/static/js/main.4cd00711.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
+    "static/js/2.1e8c3134.chunk.js": "/static/js/2.1e8c3134.chunk.js",
+    "static/js/2.1e8c3134.chunk.js.map": "/static/js/2.1e8c3134.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f0abd32069fdbf8a35ee955df444cc1f.js": "/precache-manifest.f0abd32069fdbf8a35ee955df444cc1f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.491c4a40.chunk.css.map": "/static/css/main.491c4a40.chunk.css.map",
+    "static/js/2.1e8c3134.chunk.js.LICENSE.txt": "/static/js/2.1e8c3134.chunk.js.LICENSE.txt",
+    "static/media/btn_main.jpeg": "/static/media/btn_main.9e134070.jpeg",
+    "static/media/info.png": "/static/media/info.ee6de916.png",
+    "static/media/weirddog.png": "/static/media/weirddog.5fd2eac3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ce01d7a.js",
+    "static/js/runtime-main.e5fc83a6.js",
     "static/js/2.1e8c3134.chunk.js",
     "static/css/main.491c4a40.chunk.css",
-    "static/js/main.7ac89f3b.chunk.js"
+    "static/js/main.4cd00711.chunk.js"
   ]
 }
